@@ -1,6 +1,8 @@
 # leafspy
 
 https://www.electricvehiclewiki.com/wiki/leaf-spy-pro/
+https://mentalnirex.wordpress.com/2017/04/24/nissan-leaf-data-logging/
+
 
 Co je vidět na displeji auta (tzv. dash display)?
 Vpravo grafický indikátor nabití baterky + indikátor stavu/zdraví baterky (State of health, SOH). Nabití baterky lze v číselné podobě zobrazit i uprostřed displeje (% v symbolu baterky). Indikátor stavu baterky má 12 dílků, ale nikde v menu displeje nezjistíte, jaký je vlastně aktuální stav SOH u konkrétního EV a kolik zbývá do zmiznutí prvního dílku baterky. Většina laiků si myslí, že když má stupnice 12 dílků, tak že 1 dílek má hodnotu 1/12 čili 8,33%, čili pokud ubyde 1 dílek, tak baterka má SOH 100 - 8,33 = 91,67%. To je ovšem omyl, první dílek zmizí, pokud má baterka po dobu delší než měsíc SOH menší než 85%. Stupnice totiž není lineární. Odkud to vím? Ze Spy a z jeho manuálu.
